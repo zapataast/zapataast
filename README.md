@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Myagmardorj
 - 👀 I’m interested in Algorithm , AI , Machine Learning, 
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++, C#, Javascript
+- 💞️ I’m looking to collaborate on Developing Company
 - 📫 How to reach me ...
 
 <!---
